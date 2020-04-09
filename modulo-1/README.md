@@ -1,7 +1,9 @@
-# Browser Engine, Motores e Debugging
+# Tópicos abordados neste módulo:
 
-## Visão geral sobre a interação cliente e servidor
+- #### Browser Engine, Motores e Debugging;
 
-## Visão geral sobre o HTML e CSS
+- #### Visão geral sobre a interação cliente e servidor;
 
-## Browser rendering
+- #### Visão geral sobre o HTML e CSS;
+
+- #### Browser rendering.
