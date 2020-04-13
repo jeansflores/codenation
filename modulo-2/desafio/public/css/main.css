@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap');
+
+*,
+*:after,
+*:before {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background: #FAFAFA;
+	font-family: 'Open Sans', sans-serif;
+	padding-top: 56px;
+}
+
+a {
+	text-decoration: none;
+	color: #000;
+	font-weight: bold;
+}
+
+button {
+	background-color: transparent;
+	border: none;
+	box-shadow: none;
+	outline: none;
+}
+
+.container {
+	width: 100%;
+	margin: 0 auto;
+}
+
+@media screen and (min-width: 728px) {
+	.container {
+		width: 728px;
+	}
+}
+
+.header {
+	height: 56px;
+	background: #fff;
+	width: 100%;
+	padding: 8px 16px;
+	box-shadow: 0 1px 0 #d3d3d3;
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+
+.header .container {
+	display: flex;
+	justify-content: space-between;
+}
+
+.header__logo {
+	display: inline-block;
+	height: 40px;
+}
+
+.header__logo img {
+	height: 100%;
+}
+
+.header__button {
+	font-size: 1.6rem;
+}
+
+.stories {
+	margin: 16px 0;
+}
+
+.stories__list {
+	display: flex;
+}
+
+.stories__item {
+	height: 78px;
+	width: 78px;
+	margin: 0 8px;
+	border-radius: 100%;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.stories__item--new {
+	background: linear-gradient(45deg, rgba(245,160,77,1) 0%, rgba(160,15,139,1) 100%);
+}
+
+.stories__item img {
+	height: 72px;
+	width: 72px;
+	border-radius: 100%;
+	border: 2px solid #fff;
+}
