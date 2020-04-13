@@ -25,4 +25,4 @@ Toda documentação referente aceleração pode ser encontrada no site da [coden
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://raw.githubusercontent.com/kaiorr/aceleraDevReact/master/LICENSE) para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/jeansflores/codenation-aceleradev-react/blob/master/LICENSE) para mais detalhes.
