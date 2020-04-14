@@ -1,4 +1,27 @@
-# Mobile First: Instagram
+<p align="center">
+  <img src="https://res.cloudinary.com/jeansflores/image/upload/v1586865173/codenation-aceleradev-react/modulo-2/instagram-logo_ze2goq.svg" width="180"/>
+</p>
+
+<h3 align="center">
+  Mobile First: Instagram
+</h3>
+
+<h4 align="center" style="margin: 15px">
+  <a href="https://aceleradev-instagram.netlify.com">Acesse Aqui</a>
+</h4>
+
+<div align="center">
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/30e4ad7a-9e1d-44c7-9e1f-34a74f369ba5/deploy-status)](https://app.netlify.com/sites/clone-imdb/deploys)
+</div>
+
+<p align="center">
+  <a href="#objetivo">Objetivo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#tópicos">Tópicos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#requisitos">Requisitos</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#dicas">Dicas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#screenshots-de-referência">Screenshots de Referência</a>
+</p>
   
 ## Objetivo:
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
